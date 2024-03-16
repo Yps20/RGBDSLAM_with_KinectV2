@@ -83,3 +83,9 @@ Thanks to Dr. R. Prithiviraj for guiding me through the project and helping me w
 [3] Y.Zhou, Y.Wang, F.Poiesi, Q.Qin, and Y.Wan, “Loop closure detection using local 3d deep descriptors,” IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 6335–6342, 2022.
 
 [4] L. Yan, X. Hu, L. Zhao, Y. Chen, P. Wei, and H. Xie, “Dgs-slam: A fast and robust rgbd slam in dynamic environments combined by geometric and semantic information,” Remote Sensing, vol. 14, no. 3, 2022.
+
+## Documentation
+For detailed documentation of the project, including setup instructions, usage guidelines, and more, please refer to the
+
+[Project Documentation](http://bit.ly/md43viva)
+
